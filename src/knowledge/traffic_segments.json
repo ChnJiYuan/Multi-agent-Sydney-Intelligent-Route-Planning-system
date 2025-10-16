@@ -1,0 +1,15 @@
+{
+  "CBD->Surry Hills": {"status": "clear", "expected_delay_min": 0},
+  "Surry Hills->Redfern": {"status": "clear", "expected_delay_min": 0},
+  "Redfern->Alexandria": {"status": "busy", "expected_delay_min": 3.5},
+  "Alexandria->Mascot": {"status": "incident", "expected_delay_min": 7.0},
+  "Mascot->Sydney Airport": {"status": "clear", "expected_delay_min": 0},
+  "CBD->The Rocks": {"status": "event", "expected_delay_min": 4.0},
+  "The Rocks->Barangaroo": {"status": "clear", "expected_delay_min": 0},
+  "Barangaroo->Pyrmont": {"status": "busy", "expected_delay_min": 2.0},
+  "Pyrmont->Glebe": {"status": "clear", "expected_delay_min": 0},
+  "Glebe->Anzac Bridge": {"status": "clear", "expected_delay_min": 0},
+  "Anzac Bridge->Balmain": {"status": "clear", "expected_delay_min": 0},
+  "Balmain->Rozelle": {"status": "clear", "expected_delay_min": 0},
+  "Rozelle->Lilyfield": {"status": "roadworks", "expected_delay_min": 5.0}
+}

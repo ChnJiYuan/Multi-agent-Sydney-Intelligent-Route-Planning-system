@@ -1,0 +1,112 @@
+{
+  "CBD": [
+    ["The Rocks", {"distance_km": 1.2, "toll": false}],
+    ["Surry Hills", {"distance_km": 1.8, "toll": false}],
+    ["Barangaroo", {"distance_km": 1.4, "toll": false}]
+  ],
+  "The Rocks": [
+    ["Barangaroo", {"distance_km": 1.0, "toll": false}],
+    ["Balmain", {"distance_km": 3.2, "toll": false}]
+  ],
+  "Barangaroo": [
+    ["Pyrmont", {"distance_km": 1.5, "toll": false}],
+    ["CBD", {"distance_km": 1.4, "toll": false}]
+  ],
+  "Pyrmont": [
+    ["Glebe", {"distance_km": 1.3, "toll": false}],
+    ["Anzac Bridge", {"distance_km": 0.9, "toll": false}]
+  ],
+  "Glebe": [
+    ["Broadway", {"distance_km": 1.0, "toll": false}],
+    ["Anzac Bridge", {"distance_km": 1.4, "toll": false}]
+  ],
+  "Broadway": [
+    ["CBD", {"distance_km": 1.2, "toll": false}]
+  ],
+  "Anzac Bridge": [
+    ["Balmain", {"distance_km": 1.1, "toll": false}],
+    ["Rozelle", {"distance_km": 1.0, "toll": false}]
+  ],
+  "Balmain": [
+    ["Rozelle", {"distance_km": 0.8, "toll": false}],
+    ["Drummoyne", {"distance_km": 2.0, "toll": true}]
+  ],
+  "Rozelle": [
+    ["Lilyfield", {"distance_km": 0.7, "toll": false}],
+    ["Leichhardt", {"distance_km": 1.2, "toll": false}]
+  ],
+  "Lilyfield": [
+    ["Leichhardt", {"distance_km": 1.1, "toll": false}]
+  ],
+  "Leichhardt": [
+    ["Petersham", {"distance_km": 1.0, "toll": false}]
+  ],
+  "Petersham": [
+    ["Marrickville", {"distance_km": 1.5, "toll": false}]
+  ],
+  "Drummoyne": [
+    ["Five Dock", {"distance_km": 1.5, "toll": false}]
+  ],
+  "Five Dock": [
+    ["Ashfield", {"distance_km": 2.6, "toll": false}]
+  ],
+  "Ashfield": [
+    ["Petersham", {"distance_km": 2.0, "toll": false}]
+  ],
+  "Surry Hills": [
+    ["Redfern", {"distance_km": 1.0, "toll": false}],
+    ["Paddington", {"distance_km": 1.4, "toll": false}]
+  ],
+  "Redfern": [
+    ["Newtown", {"distance_km": 2.0, "toll": false}],
+    ["Alexandria", {"distance_km": 1.1, "toll": false}]
+  ],
+  "Newtown": [
+    ["Enmore", {"distance_km": 0.8, "toll": false}],
+    ["Marrickville", {"distance_km": 1.4, "toll": false}]
+  ],
+  "Enmore": [
+    ["Marrickville", {"distance_km": 1.2, "toll": false}]
+  ],
+  "Marrickville": [
+    ["Sydenham", {"distance_km": 1.0, "toll": false}]
+  ],
+  "Sydenham": [
+    ["Mascot", {"distance_km": 2.5, "toll": false}]
+  ],
+  "Alexandria": [
+    ["Mascot", {"distance_km": 2.3, "toll": false}],
+    ["Waterloo", {"distance_km": 1.1, "toll": false}]
+  ],
+  "Waterloo": [
+    ["Green Square", {"distance_km": 1.2, "toll": false}]
+  ],
+  "Green Square": [
+    ["Mascot", {"distance_km": 2.0, "toll": false}]
+  ],
+  "Mascot": [
+    ["Sydney Airport", {"distance_km": 1.5, "toll": false}]
+  ],
+  "Sydney Airport": [],
+  "Paddington": [
+    ["Bondi Junction", {"distance_km": 2.2, "toll": false}],
+    ["Darlinghurst", {"distance_km": 1.1, "toll": false}]
+  ],
+  "Bondi Junction": [
+    ["Bondi Beach", {"distance_km": 2.9, "toll": false}],
+    ["Double Bay", {"distance_km": 3.5, "toll": false}]
+  ],
+  "Bondi Beach": [],
+  "Double Bay": [
+    ["Rushcutters Bay", {"distance_km": 1.3, "toll": false}]
+  ],
+  "Rushcutters Bay": [
+    ["Kings Cross", {"distance_km": 0.7, "toll": false}]
+  ],
+  "Kings Cross": [
+    ["Potts Point", {"distance_km": 0.4, "toll": false}]
+  ],
+  "Potts Point": [
+    ["Darlinghurst", {"distance_km": 0.9, "toll": false}]
+  ]
+}

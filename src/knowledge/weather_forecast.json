@@ -1,0 +1,16 @@
+{
+  "CBD": {"condition": "Sunny", "advice": "Enjoy the harbour views."},
+  "Surry Hills": {"condition": "Sunny", "advice": "Ideal for alfresco cafes."},
+  "Redfern": {"condition": "Overcast", "advice": "Carry a light jacket."},
+  "Alexandria": {"condition": "Rain", "advice": "Expect wet roads, reduce speed."},
+  "Mascot": {"condition": "Storm", "advice": "Delay travel if possible."},
+  "Sydney Airport": {"condition": "Rain", "advice": "Allow extra time for check-in."},
+  "The Rocks": {"condition": "Sunny", "advice": "Great for historic walks."},
+  "Barangaroo": {"condition": "Sunny", "advice": "Perfect for waterfront dining."},
+  "Pyrmont": {"condition": "Cloudy", "advice": "Mild winds near the harbour."},
+  "Glebe": {"condition": "Cloudy", "advice": "Watch for occasional drizzle."},
+  "Balmain": {"condition": "Sunny", "advice": "Ideal ferry connections."},
+  "Rozelle": {"condition": "Rain", "advice": "Roadworks and wet conditions ahead."},
+  "Lilyfield": {"condition": "Rain", "advice": "Use headlights for visibility."},
+  "Bondi Beach": {"condition": "Windy", "advice": "Surf conditions choppy."}
+}
